@@ -19,7 +19,7 @@
 ## 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GitHubKullanıcıAdın]&show_icons=true&theme=radical" alt="[Adın]'s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makdass1&show_icons=true&theme=radical" alt="[Adın]'s GitHub Stats" />
 </p>
 
 ## 📫 Bana ulaşmak için
