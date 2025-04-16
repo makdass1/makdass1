@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben [Mustafa]</h1>
+<h1 align="center">Merhaba 👋, ben Mustafa</h1>
 <h3 align="center">.NET dünyasında yolculuğa devam eden bir yazılım geliştirici adayıyım 🚀</h3>
 
 - 🎓 Şu anda bir **Yazılım Mühendisliği öğrencisiyim**.
