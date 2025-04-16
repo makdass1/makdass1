@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋, ben [Mustafa]</h1>
+<h3 align="center">.NET dünyasında yolculuğa devam eden bir yazılım geliştirici adayıyım 🚀</h3>
 
-<!--
-**makdass1/makdass1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Şu anda bir **Yazılım Mühendisliği öğrencisiyim**.
+- 🖥️ Aktif olarak **.NET** ve **.NET Core** ile projeler geliştiriyorum.
+- 💾 **SQL Server** ile veri tabanı uygulamaları yazıyor, ayrıca **MongoDB** gibi NoSQL veritabanlarını da öğreniyorum.
+- 📚 Sürekli yeni teknolojiler öğrenmeye ve projeler üretmeye çalışıyorum.
+- 🎯 Hedefim backend geliştirme konusunda uzmanlaşmak ve kendi projelerimi geliştirmek.
 
-Here are some ideas to get you started:
+## 🚀 Kullandığım ve Öğrendiğim Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ **C#**
+- 🔧 **.NET / .NET Core**
+- 🗄️ **MS SQL**
+- 🌿 **MongoDB**
+- 🌐 **Blazor** & **ASP.NET MVC**
+- 🛠️ **Entity Framework Core**
+
+## 📈 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[GitHubKullanıcıAdın]&show_icons=true&theme=radical" alt="[Adın]'s GitHub Stats" />
+</p>
+
+## 📫 Bana ulaşmak için
+
+- 📧 Mail: makdas163@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/mustafa-akda%C5%9F-441818257/
+
+---
+
+## 📌 Not
+
+> Öğrenci olarak başladığım bu yolculukta her gün yeni şeyler öğreniyor ve projeler geliştiriyorum. Yaptığım çalışmaları ve kaynak kodlarını burada paylaşarak hem gelişiyor hem de başkalarına faydalı olmaya çalışıyorum. 👨‍💻✨
+
+---
+
+
