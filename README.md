@@ -3,6 +3,7 @@
 
 - 🎓 Şu anda bir **Yazılım Mühendisliği öğrencisiyim**.
 - 🖥️ Aktif olarak **.NET** ve **.NET Core** ile projeler geliştiriyorum.
+- 📱 Mobil Uygulama geliştirmeye ilgi duyuyorum. Kotlin ve Compose öğrenme aşamasındayım.
 - 💾 **SQL Server** ile veri tabanı uygulamaları yazıyor, ayrıca **MongoDB** gibi NoSQL veritabanlarını da öğreniyorum.
 - 📚 Sürekli yeni teknolojiler öğrenmeye ve projeler üretmeye çalışıyorum.
 - 🎯 Hedefim backend geliştirme konusunda uzmanlaşmak ve kendi projelerimi geliştirmek.
@@ -10,6 +11,7 @@
 ## 🚀 Kullandığım ve Öğrendiğim Teknolojiler
 
 - 🖥️ **C#**
+- 📱  **Java&Kotlin**
 - 🔧 **.NET / .NET Core**
 - 🗄️ **MS SQL**
 - 🌿 **MongoDB**
